@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+##  Bienvenidos a mi pagina  web creda el dia 21/02
 
-You can use the [editor on GitHub](https://github.com/nat-pb/nat-pb.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ME PRESENTO !!
+MI NOMBRE ES NATALIA PEREZ BERNABE , CON LA ACTUAL EDAD DE 17 AÑOS ....
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
